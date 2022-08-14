@@ -1,5 +1,5 @@
 # ToDo List. 
-### Desenvolvido em React com TypeScript e Styled Components.
+### Desenvolvido em React, utilizando TypeScript e Styled Components.
 
 ## Getting Started with Create React App
 
